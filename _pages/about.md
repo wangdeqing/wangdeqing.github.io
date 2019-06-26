@@ -22,20 +22,17 @@ Signal Processing, Machine Learning, Tensor Decomposition, Sparse Optimization, 
 
 Research Experiences:
 ======
-* **10/2016 – Present:** Ph.D, Faculty of Information Technology, University of Jyväskylä, Finland.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Mathematical Information Technology
+* **10/2016 – Present:** Ph.D, Faculty of Information Technology, University of Jyväskylä, Finland.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Mathematical Information Technology
 
-* **09/2015 – Present:** Ph.D, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
-                   Major: Biomedical Engineering
+* **09/2015 – Present:** Ph.D, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Biomedical Engineering
 
 * **12/2014 – 07/2015:** Engineer, Dalian Scientific Test & Control Technology Institute, China Shipbuilding Industry Corporation.
 
 * **04/2012 – 11/2014:** Assistant Engineer, Dalian Scientific Test & Control Technology Institute, China Shipbuilding Industry Corporation.
 
-* **09/2009 – 03/2012:** M.E., College of Automation, Harbin Engineering University, China.<br>
-                   Major: Pattern Recognition and Intelligence System
+* **09/2009 – 03/2012:** M.E., College of Automation, Harbin Engineering University, China.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Pattern Recognition and Intelligence System
 
-* **09/2005 – 06/2009:** B.E., College of Automation, Harbin Engineering University, China.<br>
-                   Major: Automation
+* **09/2005 – 06/2009:** B.E., College of Automation, Harbin Engineering University, China.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Automation
 
 Site-wide configuration
 ------
