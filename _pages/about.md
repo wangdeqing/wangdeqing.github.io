@@ -15,7 +15,7 @@ Research groups:<br>
 
 Research Interests:
 ======
-Signal Processing, Machine Learning, <a style="color:#CC0000">Tensor Decomposition</a>, Sparse Optimization, Electroencephalography(EEG) Data Analysis
+Signal Processing, Machine Learning, Tensor Decomposition, Sparse Optimization, Electroencephalography(EEG) Data Analysis
 
 Research Experiences:
 ======
@@ -50,6 +50,8 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+
+[![Foo](/images/editing-talk.png)](http://www.google.com/)
 
 For more info
 ------
