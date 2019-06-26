@@ -22,7 +22,7 @@ Signal Processing, Machine Learning, Tensor Decomposition, Sparse Optimization, 
 
 Research Experiences:
 ======
-* **10/2016 – Present:** Ph.D, Faculty of Information Technology, University of Jyväskylä, Finland.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Mathematical Information Technology
+* **10/2016 – Present:** Ph.D, Faculty of Information Technology, University of Jyväskylä, Finland.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Mathematical Information Technology
 
 * **09/2015 – Present:** Ph.D, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
                    Major: Biomedical Engineering
