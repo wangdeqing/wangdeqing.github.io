@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-At present, I am a joint training doctoral student in [JYU](http://www.jyu.fi) and [DLUT](http://www.dlut.edu.cn).
-
+At present, I am a joint training doctoral student in [JYU](http://www.jyu.fi) and [DLUT](http://www.dlut.edu.cn).<br>
 Research groups:<br>
 [Signal Processing and Wireless Communication (JYU)](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing)<br>
 [Lab of Advanced Signal Analysis and Processing (DLUT)](http://www.escience.cn/people/cong/asap.html)
