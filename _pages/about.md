@@ -16,7 +16,7 @@ Research groups:
 
 [Lab of Advanced Signal Analysis and Processing (DLUT)](http://www.escience.cn/people/cong/asap.html)
 
-Research interests:
+Research Interests:
 ======
 Signal Processing, Machine Learning, Tensor Decomposition, Sparse Optimization, Electroencephalography(EEG) Data Analysis
 
