@@ -37,8 +37,8 @@ Research Interests:
 
 Early Researches:
 ------
-- Computer Vision (Year: 2012): [http://www.matlab.org.cn/wood/](http://www.matlab.org.cn/wood/)
-- Image Segmentation Based on Partial Differential Equations (Year: 2011): [Link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh)
+- Computer Vision (Year: 2012): [<a href="http://www.matlab.org.cn/wood/" target="_blank">http://www.matlab.org.cn/wood/</a>]
+- Image Segmentation Based on Partial Differential Equations (Year: 2011): [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Link</a>]
 
 URLs of my website:
 ------
