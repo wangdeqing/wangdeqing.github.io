@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<a href="https://scholar.google.com/citations?user=gAIOHx8AAAAJ&amp;hl=en" target="_blank"><img src="/images/icon/GoogleScholar-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57190948224" target="_blank"><img src="/images/icon/scopus-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
+<a href="https://orcid.org/0000-0002-1333-0928" target="_blank"><img src="/images/icon/orcid-icon.png" width="38" height="38" alt="ORCID" /></a>
+<a href="https://www.researchgate.net/profile/Deqing_Wang4" target="_blank"><img src="/images/icon/Researchgate-icon.png" width="38" height="38" alt="Researchgate" /></a>
+<a href="https://www.facebook.com/wangdeqing" target="_blank"><img src="/images/icon/facebook-icon.png" width="38" height="38" alt="Facebook Profile" longdesc="https://www.facebook.com/wangdeqing" /></a>
+<a href="https://twitter.com/wangdeqing" target="_blank"><img src="/images/icon/twitter-icon.png" width="38" height="38" alt="Twitter Profile" longdesc="https://twitter.com/wangdeqing" /></a>
+<a href="https://www.linkedin.com/in/wangdeqing/" target="_blank"><img src="/images/icon/linkedin-icon.png" width="38" height="38" alt="Linkedin Profile" longdesc="https://www.linkedin.com/in/wangdeqing/" /></a>
+<a href="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" target="_blank"><img src="/images/icon/JYU-icon.png" width="38" height="38" alt="JYU Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
+<a href="https://github.com/wangdeqing" target="_blank"><img src="/images/icon/github-icon.png" width="38" height="38" alt="Github Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
+
 At present, I am a joint training doctoral student in [JYU](http://www.jyu.fi) and [DLUT](http://www.dlut.edu.cn).<br>
 Research groups:<br>
 [Signal Processing and Wireless Communication (JYU)](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing)<br>
@@ -31,41 +41,6 @@ Research Experiences:
 
 * **09/2005 – 06/2009:** B.E., College of Automation, Harbin Engineering University, China.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Automation
 
-Site-wide configuration
+URLs of my website:
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-[![Foo](/images/editing-talk.png)](http://www.google.com/)
-
-<a href="http://www.google.com/" rel="some text">![Foo](/images/editing-talk.png)</a>
-
-<a href="https://scholar.google.com/citations?user=gAIOHx8AAAAJ&amp;hl=en" target="_blank"><img src="/images/icon/GoogleScholar-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
-<a href="https://www.scopus.com/authid/detail.uri?authorId=57190948224" target="_blank"><img src="/images/icon/scopus-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
-<a href="https://orcid.org/0000-0002-1333-0928" target="_blank"><img src="/images/icon/orcid-icon.png" width="38" height="38" alt="ORCID" /></a>
-<a href="https://www.researchgate.net/profile/Deqing_Wang4" target="_blank"><img src="/images/icon/Researchgate-icon.png" width="38" height="38" alt="Researchgate" /></a>		  
-<a href="https://www.facebook.com/wangdeqing" target="_blank"><img src="/images/icon/facebook-icon.png" width="38" height="38" alt="Facebook Profile" longdesc="https://www.facebook.com/wangdeqing" /></a>
-<a href="https://twitter.com/wangdeqing" target="_blank"><img src="/images/icon/twitter-icon.png" width="38" height="38" alt="Twitter Profile" longdesc="https://twitter.com/wangdeqing" /></a>
-<a href="https://www.linkedin.com/in/wangdeqing/" target="_blank"><img src="/images/icon/linkedin-icon.png" width="38" height="38" alt="Linkedin Profile" longdesc="https://www.linkedin.com/in/wangdeqing/" /></a>
-<a href="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" target="_blank"><img src="/images/icon/JYU-icon.png" width="38" height="38" alt="JYU Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
-<a href="https://github.com/wangdeqing" target="_blank"><img src="/images/icon/github-icon.png" width="38" height="38" alt="Github Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[https://wangdeqing.github.io](https://wangdeqing.github.io)
