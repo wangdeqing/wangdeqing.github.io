@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "index"
 author_profile: true
 redirect_from: 
   - /about/
@@ -34,6 +34,10 @@ Research Interests:
 - <a style="color:#CC0000"><strong>Tensor Decomposition</strong></a><br>
 - Nonlinear Optimization<br>
 - Electroencephalography(EEG) Data Analysis
+
+Early Researches:<br>
+- Computer Vision (Year: 2012):<br>[http://www.matlab.org.cn/wood/](http://www.matlab.org.cn/wood/)
+- Image Segmentation Based on Partial Differential Equations (Year: 2011)<br>[Link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh)
 
 Publications:
 ======
