@@ -53,7 +53,18 @@ Example: editing a markdown file for a talk
 
 [![Foo](/images/editing-talk.png)](http://www.google.com/)
 
-<a href="http://www.google.com/" rel="some text">![Foo](/images/editing-talk.png)]</a>
+<a href="http://www.google.com/" rel="some text">![Foo](/images/editing-talk.png)</a>
+
+<a href="https://scholar.google.com/citations?user=gAIOHx8AAAAJ&amp;hl=en" target="_blank"><img src="/images/icon/GoogleScholar-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57190948224" target="_blank"><img src="/images/icon/scopus-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
+<a href="https://orcid.org/0000-0002-1333-0928" target="_blank"><img src="/images/icon/orcid-icon.png" width="38" height="38" alt="ORCID" /></a>
+<a href="https://www.researchgate.net/profile/Deqing_Wang4" target="_blank"><img src="/images/icon/Researchgate-icon.png" width="38" height="38" alt="Researchgate" /></a>		  
+<a href="https://www.facebook.com/wangdeqing" target="_blank"><img src="/images/icon/facebook-icon.png" width="38" height="38" alt="Facebook Profile" longdesc="https://www.facebook.com/wangdeqing" /></a>
+<a href="https://twitter.com/wangdeqing" target="_blank"><img src="/images/icon/twitter-icon.png" width="38" height="38" alt="Twitter Profile" longdesc="https://twitter.com/wangdeqing" /></a>
+<a href="https://www.linkedin.com/in/wangdeqing/" target="_blank"><img src="/images/icon/linkedin-icon.png" width="38" height="38" alt="Linkedin Profile" longdesc="https://www.linkedin.com/in/wangdeqing/" /></a>
+<a href="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" target="_blank"><img src="/images/icon/JYU-icon.png" width="38" height="38" alt="JYU Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
+<a href="https://github.com/wangdeqing" target="_blank"><img src="/images/icon/github-icon.png" width="38" height="38" alt="Github Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
+
 
 For more info
 ------
