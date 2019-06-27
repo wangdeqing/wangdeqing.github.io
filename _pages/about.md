@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <a href="https://scholar.google.com/citations?user=gAIOHx8AAAAJ&amp;hl=en" target="_blank"><img src="/images/icon/GoogleScholar-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
-<a href="https://www.scopus.com/authid/detail.uri?authorId=57190948224" target="_blank"><img src="/images/icon/scopus-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57190948224" target="_blank"><img src="/images/icon/scopus-icon.png" width="38" height="38" alt="SCOPUS Profile" /></a>
 <a href="https://orcid.org/0000-0002-1333-0928" target="_blank"><img src="/images/icon/orcid-icon.png" width="38" height="38" alt="ORCID" /></a>
 <a href="https://www.researchgate.net/profile/Deqing_Wang4" target="_blank"><img src="/images/icon/Researchgate-icon.png" width="38" height="38" alt="Researchgate" /></a>
 <a href="https://www.facebook.com/wangdeqing" target="_blank"><img src="/images/icon/facebook-icon.png" width="38" height="38" alt="Facebook Profile" longdesc="https://www.facebook.com/wangdeqing" /></a>
@@ -25,7 +25,7 @@ Research groups:<br>
 
 Contact Information:
 ======
-Email:
+Email:<img src="/images/email.png"/><br>
 Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 
 Research Interests:
