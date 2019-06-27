@@ -26,3 +26,8 @@ Research Topic: Image Segmentation Based on Partial Difference Equations [<a hre
 - 09/2005 – 06/2009:<br>
 B.E., College of Automation, Harbin Engineering University, China.<br>
 Major: Automation
+
+Awards
+======
+- Best Paper Award, The 2nd Academic Forum for Chinese and Foreign Ph.D. Students, Dalian University of Technology, Dalian, China. June, 2016. [link](http://sie.dlut.edu.cn/info/10001/87240.htm)
+- Best Student Paper Award, 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK. May, 2019. [link](https://2019.ieeeicassp.org/program#awards)
