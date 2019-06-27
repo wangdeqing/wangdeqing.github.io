@@ -25,7 +25,7 @@ Research groups:<br>
 
 Contact Information:
 ======
-Email:<img src="/images/email.png"/><br>
+Email:<img src="/images/email.png" height="20"/><br>
 Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 
 Research Interests:
