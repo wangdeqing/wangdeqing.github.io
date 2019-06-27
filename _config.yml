@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Deqing Wang's Website"
 title_separator          : "-"
-name                     : &name "Deqing Wang (王德庆)"
+name                     : &name "Deqing Wang"
 description              : &description "personal description"
 url                      : https://wangdeqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Signal Processing, Tensor Decomposition"
   location         : "Jyväskylä, Finland"
-  employer         : #""
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gAIOHx8AAAAJ&hl=en"
   email            : "deqing.wang@foxmail.com
