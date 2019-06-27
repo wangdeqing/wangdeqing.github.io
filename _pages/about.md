@@ -25,7 +25,7 @@ Research groups:<br>
 
 Contact Information:
 ======
-Email:<img src="/images/email.png" height="20"/><br>
+Email:<a href="mailto:deqing.wang@foxmail.com" target="_blank"><img src="/images/email.png" height="24"/></a><br>
 Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 
 Research Interests:
