@@ -31,7 +31,7 @@ Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 Research Interests:
 ======
 - Signal Processing, Machine Learning<br>
-- <a style="color:#CC0000"><strong>Tensor Decomposition</strong></a>: Constrained and Regularized CANDECOMP/PAFARAC decomposition<br>
+- <a style="color:#CC0000"><strong>Tensor Decomposition</strong></a>: constrained and regularized CANDECOMP/PAFARAC decomposition<br>
 - Nonlinear Optimization<br>
 - Electroencephalography(EEG) Data Analysis
 
