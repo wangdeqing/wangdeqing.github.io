@@ -4,8 +4,8 @@ title: ""
 excerpt: "index"
 author_profile: true
 redirect_from: 
-  - /index/
-  - /index.html
+  - /about/
+  - /about.html
 ---
 
 <a href="https://scholar.google.com/citations?user=gAIOHx8AAAAJ&amp;hl=en" target="_blank"><img src="/images/icon/GoogleScholar-icon.png" width="38" height="38" alt="Google Scholar Profile" /></a>
