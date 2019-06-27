@@ -23,6 +23,11 @@ Research groups:<br>
 <a href="https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing" target="_blank">Signal Processing and Wireless Communication (JYU)</a><br>
 <a href="http://www.escience.cn/people/cong/asap.html" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
 
+Contact Information:
+======
+Email:
+Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
+
 Research Interests:
 ======
 - Signal Processing, Machine Learning<br>
