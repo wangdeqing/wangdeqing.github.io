@@ -1,11 +1,8 @@
 ---
-permalink: /about/
+layout: archive
 title: "About me"
-excerpt: "About me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Research Experiences:
