@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Conferences"
+title: "Conferences/Workshops"
 permalink: /Conferences/
 author_profile: true
 ---
 
-Conferences/Workshops:
-======
 * The 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2019), Brighton, UK, May 12-17, 2019. [<a href="https://2019.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * MEG Nord 2019, May 8-10, 2019. Jyväskylä, Finland. [<a href="http://megnord.org/2019/program.html" target="_blank">Website</a>]<br />
 * Science Communication Carnival, January 30, 2019. Jyväskylä, Finland. [<a href="https://korppi.jyu.fi/kotka/course/student/generalCourseInfo.jsp?lang=1&course=237353" target="_blank">Website</a>][<a href="https://uno.jyu.fi/en/current/archive/2018/11/science-communication-carnival" target="_blank">Internal Website</a>]<br />
