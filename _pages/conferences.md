@@ -1,11 +1,8 @@
 ---
-permalink: /conferences/
+layout: archive
 title: "Conferences"
-excerpt: "Conferences"
+permalink: /Conferences/
 author_profile: true
-redirect_from: 
-  - /conferences/
-  - /conferences.html
 ---
 
 Conferences/Workshops:
