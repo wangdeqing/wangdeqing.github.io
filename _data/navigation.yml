@@ -2,12 +2,3 @@
 main:
   - title: "Home"
     url: /
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Conferences"
-    url: /conferences/    
-
-  - title: "About me"
-    url: /aboutme/    
