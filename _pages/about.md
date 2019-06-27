@@ -26,7 +26,7 @@ Research groups:<br>
 Research Interests:
 ======
 - Signal Processing, Machine Learning<br>
-- <a style="color:#CC0000"><strong>Matrix/Tensor Decomposition</strong></a><br>
+- <a style="color:#CC0000"><strong>Tensor Decomposition</strong></a><br>
 - Nonlinear Optimization<br>
 - Electroencephalography(EEG) Data Analysis
 
