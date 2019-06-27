@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Signal Processing, Tensor Decomposition"
   location         : "Jyväskylä, Finland"
-  employer         :
+  employer         : #""
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gAIOHx8AAAAJ&hl=en"
   email            : "deqing.wang@foxmail.com
