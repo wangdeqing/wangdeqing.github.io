@@ -29,5 +29,6 @@ Major: Automation
 
 Awards
 ======
-- Best Paper Award, The 2nd Academic Forum for Chinese and Foreign Ph.D. Students, Dalian University of Technology, Dalian, China. June, 2016. [<a href="http://sie.dlut.edu.cn/info/10001/87240.htm" target="_blank">Link</a>]
 - Best Student Paper Award, 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK. May, 2019. [<a href="https://2019.ieeeicassp.org/program#awards" target="_blank">Link</a>]
+- Best Paper Award, The 2nd Academic Forum for Chinese and Foreign Ph.D. Students, Dalian University of Technology, Dalian, China. June, 2016. [<a href="http://sie.dlut.edu.cn/info/10001/87240.htm" target="_blank">Link</a>]
+
