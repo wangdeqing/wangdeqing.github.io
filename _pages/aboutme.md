@@ -27,8 +27,7 @@ Research Topic: Image Segmentation Based on Partial Difference Equations [<a hre
 B.E., College of Automation, Harbin Engineering University, China.<br>
 Major: Automation
 
-Awards
-======
-- Best Student Paper Award, 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK. May, 2019. [<a href="https://2019.ieeeicassp.org/program#awards" target="_blank">Link</a>]
-- Best Paper Award, The 2nd Academic Forum for Chinese and Foreign Ph.D. Students, Dalian University of Technology, Dalian, China. June, 2016. [<a href="http://sie.dlut.edu.cn/info/10001/87240.htm" target="_blank">Link</a>]
-
+Early Researches:
+------
+- Computer Vision (Year: 2012): [<a href="http://www.matlab.org.cn/wood/" target="_blank">http://www.matlab.org.cn/wood/</a>]
+- Image Segmentation Based on Partial Differential Equations (Year: 2011): [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Link</a>]
