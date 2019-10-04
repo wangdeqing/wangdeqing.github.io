@@ -5,7 +5,8 @@ permalink: /Conferences/
 author_profile: true
 ---
 
-* The 29th Jyväskylä Summer School, 5 - 16, 2019. Jyväskylä, Finland.<br />
+* Ruusupuisto well-being seminar: Brain and movement, October 4, 2019. Jyväskylä, Finland. [<a href="https://www.jyu.fi/science/en/nanoscience-center/current/seminars/wellbeing-seminar" target="_blank">Website</a>]<br />
+* The 29th Jyväskylä Summer School, August 5 - 16, 2019. Jyväskylä, Finland.<br />
 * The Signal Processing with Adaptive Sparse Structured Representations workshop (SPARS2019), Toulouse, France, July 1-4, 2019. [<a href="http://www.spars-workshop.org/" target="_blank">Website</a>] [<a href="https://www.conftool.net/spars2019/index.php?page=browseSessions&mode=list&presentations=show" target="_blank">Program</a>]<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract Paper: <b>Deqing Wang</b>, et al. Sparse Nonnegative Tensor Decomposition for EEG Data. [<a href="https://www.conftool.net/spars2019/index.php/Abstract156-WANG-156.pdf?page=downloadPaper&filename=Abstract156-WANG-156.pdf&form_id=156&form_version=final" target="_blank">Download</a>]<br />
 * The 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2019), Brighton, UK, May 12-17, 2019. [<a href="https://2019.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * MEG Nord 2019, May 8-10, 2019. Jyväskylä, Finland. [<a href="http://megnord.org/2019/program.html" target="_blank">Website</a>]<br />
