@@ -20,6 +20,7 @@ redirect_from:
 
 I received my Ph.D. degree in December 2019 in <a href="https://www.jyu.fi/en" target="_blank">University of Jyväskylä</a>, Finland. The information of my dissertation defense can be found from the [<a href="https://www.jyu.fi/en/current/archive/2019/11/12-12-2019-msc-deqing-wang-faculty-of-information-technology-mathematical-information-technology" target="_blank">press release in English</a>] and [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/11/12-12-2019-msc-deqing-wang-informaatioteknologian-tiedekunta-tietotekniikka" target="_blank">press release in Finnish</a>].<br>
 At present, I am working towards another doctoral degree in <a href="https://www.dlut.edu.cn" target="_blank">Dalian University of Technology</a>, China.<br>
+
 Research groups:<br>
 <a href="https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing" target="_blank">Signal Processing and Wireless Communication (JYU)</a><br>
 <a href="http://www.escience.cn/people/cong/asap.html" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
