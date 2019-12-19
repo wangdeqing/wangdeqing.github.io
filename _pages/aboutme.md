@@ -10,8 +10,7 @@ Research Experiences:
 - **10/2016 – 12/2019:**<br>
 Ph.D, Faculty of Information Technology, University of Jyväskylä, Finland.<br>
 Major: Mathematical Information Technology<br>
-Research Topic: Extracting meaningful EEG Features using constrained tensor decomposition<br>
-[<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>] [<a href="https://www.jyu.fi/en/current/archive/2019/11/12-12-2019-msc-deqing-wang-faculty-of-information-technology-mathematical-information-technology" target="_blank">Press Release in English</a>] [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/11/12-12-2019-msc-deqing-wang-informaatioteknologian-tiedekunta-tietotekniikka" target="_blank">Press Release in Finnish</a>]<br>
+Research Topic: Extracting meaningful EEG Features using constrained tensor decomposition [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>]<br>
 - **09/2015 – Present:**<br>
 Ph.D, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
 Major: Biomedical Engineering<br>
