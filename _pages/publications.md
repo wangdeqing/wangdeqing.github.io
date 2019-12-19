@@ -23,5 +23,6 @@ Dissertations
 ------
 <b>Doctoral Dissertation:</b><br><b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
 [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>] [<a href="https://www.jyu.fi/en/current/archive/2019/11/12-12-2019-msc-deqing-wang-faculty-of-information-technology-mathematical-information-technology" target="_blank">Press Release in English</a>] [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/11/12-12-2019-msc-deqing-wang-informaatioteknologian-tiedekunta-tietotekniikka" target="_blank">Press Release in Finnish</a>]<br>
+
 <b>Master Dissertation:</b><br><b>Deqing Wang</b>, Image Segmentation Based on Partial Difference Equations, Harbin Engineering University, Harbin, China. March 2012.<br>
 [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Dissertation in Chinese</a>]<br>
