@@ -18,7 +18,7 @@ redirect_from:
 <a href="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" target="_blank"><img src="/images/icon/JYU-icon.png" width="38" height="38" alt="JYU Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
 <a href="https://github.com/wangdeqing" target="_blank"><img src="/images/icon/github-icon.png" width="38" height="38" alt="Github Profile" longdesc="https://converis.jyu.fi/converis/portal/Person/4565746?auxfun=&amp;lang=en_GB" /></a>
 
-I received my Ph.D. degree in December 2019 in <a href="https://www.jyu.fi/en" target="_blank">University of Jyväskylä</a>, Finland. At present, I am working towards another doctoral degree <a href="https://www.dlut.edu.cn" target="_blank">Dalian University of Technology</a>, China.<br>
+I received my Ph.D. degree in December 2019 in <a href="https://www.jyu.fi/en" target="_blank">University of Jyväskylä</a>, Finland. At present, I am working towards another doctoral degree in <a href="https://www.dlut.edu.cn" target="_blank">Dalian University of Technology</a>, China.<br>
 Research groups:<br>
 <a href="https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing" target="_blank">Signal Processing and Wireless Communication (JYU)</a><br>
 <a href="http://www.escience.cn/people/cong/asap.html" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
