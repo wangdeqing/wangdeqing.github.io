@@ -19,7 +19,9 @@ Journal and Conference Papers:
 <b>Deqing Wang</b>, Zengwu Liu, and Fengyu Cong. Wood Surface Quality Detection and Classification Using Gray Level and Texture Features, in Advances in Neural Networks – ISNN 2015, X. Hu, et al., Editors. 2015, Springer International Publishing. p. 248-257.<br />[<a href="https://doi.org/10.1007/978-3-319-25393-0_28" target="_blank">Paper Download</a>]<br>
 Xiufen Ye, <b>Deqing Wang</b>. Texture Image Segmentation Combining Chan-Vese Model and Structure Tensor. In 2012 Annual Conference of College of Automation, Harbin Engineering University. Harbin, China. 2012. [In Chinese]<br />[<a href="http://users.jyu.fi/~dewang/Documents/Ye_Wang_Image_Segmentation_2012.pdf" target="_blank">Paper Download</a>]<br>
 
-Dissertation
+Dissertations
 ------
-<b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
+[Doctoral Dissertation] <b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
 [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>] [<a href="https://www.jyu.fi/en/current/archive/2019/11/12-12-2019-msc-deqing-wang-faculty-of-information-technology-mathematical-information-technology" target="_blank">Press Release in English</a>] [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/11/12-12-2019-msc-deqing-wang-informaatioteknologian-tiedekunta-tietotekniikka" target="_blank">Press Release in Finnish</a>]<br>
+[Master Dissertation] <b>Deqing Wang</b>, Image Segmentation Based on Partial Difference Equations, Harbin Engineering University, Harbin, China. March 2012.<br>
+[<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Dissertation in Chinese</a>]<br>
