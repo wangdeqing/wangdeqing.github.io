@@ -5,6 +5,8 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+* Science Communication Carnival, January 30, 2020. Jyväskylä, Finland. [<a href="https://korppi.jyu.fi/kotka/course/student/generalCourseInfo.jsp?lang=1&course=245892" target="_blank">Website</a>][<a href="https://uno.jyu.fi/en/current/archive/2019/12/science-communication-carnival" target="_blank">Internal Website</a>]<br />
+* The 7th Annual Research Seminar of CIBR, December 11, 2019. Jyväskylä, Finland. [<a href="https://cibr.jyu.fi/en/news/7th-annual-research-seminar-of-cibr" target="_blank">Website</a>]<br />
 * Ruusupuisto well-being seminar: Brain and movement, October 4, 2019. Jyväskylä, Finland. [<a href="https://www.jyu.fi/science/en/nanoscience-center/current/seminars/wellbeing-seminar" target="_blank">Website</a>]<br />
 * The 29th Jyväskylä Summer School, August 5 - 16, 2019. Jyväskylä, Finland.<br />
 * The Signal Processing with Adaptive Sparse Structured Representations workshop (SPARS2019), Toulouse, France, July 1-4, 2019. [<a href="http://www.spars-workshop.org/" target="_blank">Website</a>] [<a href="https://www.conftool.net/spars2019/index.php?page=browseSessions&mode=list&presentations=show" target="_blank">Program</a>]<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract Paper: <b>Deqing Wang</b>, et al. Sparse Nonnegative Tensor Decomposition for EEG Data. [<a href="https://www.conftool.net/spars2019/index.php/Abstract156-WANG-156.pdf?page=downloadPaper&filename=Abstract156-WANG-156.pdf&form_id=156&form_version=final" target="_blank">Download</a>]<br />
