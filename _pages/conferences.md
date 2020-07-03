@@ -5,7 +5,8 @@ permalink: /Conferences/
 author_profile: true
 ---
 
-* The 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020), Virtual Barcelona, Spain, May 4-8, 2020. [<a href="https://2020.ieeeicassp.org/" target="_blank">Website</a>]<br />
+* The 11th IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM2020, Virtual Conference), Hangzhou, China, June 8 - 11, 2020. [<a href="https://sam2020.aconf.org/" target="_blank">Website</a>]<br />
+* The 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020, Virtual Conference), Barcelona, Spain, May 4-8, 2020. [<a href="https://2020.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * Science Communication Carnival, January 30, 2020. Jyväskylä, Finland. [<a href="https://korppi.jyu.fi/kotka/course/student/generalCourseInfo.jsp?lang=1&course=245892" target="_blank">Website</a>][<a href="https://uno.jyu.fi/en/current/archive/2019/12/science-communication-carnival" target="_blank">Internal Website</a>]<br />
 * The 7th Annual Research Seminar of CIBR, December 11, 2019. Jyväskylä, Finland. [<a href="https://cibr.jyu.fi/en/news/7th-annual-research-seminar-of-cibr" target="_blank">Website</a>]<br />
 * Ruusupuisto well-being seminar: Brain and movement, October 4, 2019. Jyväskylä, Finland. [<a href="https://www.jyu.fi/science/en/nanoscience-center/current/seminars/wellbeing-seminar" target="_blank">Website</a>]<br />
