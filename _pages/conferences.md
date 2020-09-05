@@ -5,6 +5,8 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+* Workshop on Equivariance and Data Augmentation, Online, Sep. 4, 2020. [<a href="https://sites.google.com/view/equiv-data-aug/home" target="_blank">Website</a>]<br />
+* The 24th European Conference on Artificial Intelligence (ECAI2020), Online, Aug. 29 - Sep. 8, 2020. [<a href="https://digital.ecai2020.eu/" target="_blank">Website</a>]<br />
 * The 11th IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM2020, Virtual Conference), Hangzhou, China, June 8 - 11, 2020. [<a href="https://sam2020.aconf.org/" target="_blank">Website</a>]<br />
 * The 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2020, Virtual Conference), Barcelona, Spain, May 4-8, 2020. [<a href="https://2020.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * Science Communication Carnival, January 30, 2020. Jyväskylä, Finland. [<a href="https://korppi.jyu.fi/kotka/course/student/generalCourseInfo.jsp?lang=1&course=245892" target="_blank">Website</a>][<a href="https://uno.jyu.fi/en/current/archive/2019/12/science-communication-carnival" target="_blank">Internal Website</a>]<br />
