@@ -31,3 +31,8 @@ Early Researches:
 ------
 - Computer Vision (Year: 2012): [<a href="http://www.matlab.org.cn/wood/" target="_blank">http://www.matlab.org.cn/wood/</a>]
 - Image Segmentation Based on Partial Differential Equations (Year: 2011): [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Link</a>]
+
+Acedemic Photos
+======
+- JYU - Centre for Multilingual Academic Communication Movi: [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa" target="_blank">The University of Jyväskylä as a pioneer in academic language teaching</a>]
+- Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): [<a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">CIBR Brain Breakfast</a>]
