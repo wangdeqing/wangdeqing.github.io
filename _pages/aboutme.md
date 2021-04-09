@@ -34,5 +34,5 @@ Early Researches:
 
 Acedemic Photos
 ======
-- JYU - Centre for Multilingual Academic Communication Movi: [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa" target="_blank">The University of Jyväskylä as a pioneer in academic language teaching</a>]
-- Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): [<a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">CIBR Brain Breakfast</a>]
+- JYU - Centre for Multilingual Academic Communication Movi: <a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa" target="_blank">The University of Jyväskylä as a pioneer in academic language teaching</a>
+- Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): <a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">CIBR Brain Breakfast</a>
