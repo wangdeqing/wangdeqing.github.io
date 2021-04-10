@@ -35,7 +35,7 @@ Early Researches:
 Acedemic Photos
 ======
 - JYU - Centre for Multilingual Academic Communication Movi: <a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa" target="_blank">The University of Jyväskylä as a pioneer in academic language teaching</a>
-- Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): <a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">CIBR Brain Breakfast</a>
+- Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): <a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">CIBR Brain Breakfast</a>, <a href="https://cibr.jyu.fi/en/cibr-collegium/cibr-collegium-and-advisory-board/@@images/25044fc9-9c83-0069-82c9-36bee86b5b6a.jpeg" target="_blank">Photo</a>
 - <a href="https://www.jyu.fi/en/current/archive/2021/03/the-jyvaskyla-summer-school-as-a-gateway-to-internationalizing" target="_blank">The Jyväskylä Summer School as a gateway to internationalizing</a>
 - <a href="https://homes.esat.kuleuven.be/~sistawww/biomed/biotensorssummerschool18/material-pictures.php" target="_blank">EURASIP Summer School: Tensor-Based Signal Processing</a>
 - <a href="https://www.ksml.fi/teemat/2374292" target="_blank">2019 Finlandia Marathon: 125 IT marathoners participated in the running event</a>
