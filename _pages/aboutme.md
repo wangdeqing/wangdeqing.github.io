@@ -7,10 +7,6 @@ author_profile: true
 
 Research Experiences:
 ======
-- **09/2015 – Present:**<br>
-Doctoral Student, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
-Major: Biomedical Engineering<br>
-Research Topic: Joint Analysis of Naturalistic Music and Multiway Ongoing EEG<br>
 - **10/2016 – 12/2019:**<br>
 Ph.D., Faculty of Information Technology, University of Jyväskylä, Finland.<br>
 Major: Mathematical Information Technology<br>
