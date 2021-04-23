@@ -25,6 +25,7 @@ Research groups:<br>
 <a href="http://www.escience.cn/people/cong/asap.html" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
 
 <a style="color:#CC0000" href="https://github.com/wangdeqing/Ongoing_EEG_Tensor_Decomposition" target="_blank"><strong>Special Topic: Ongoing EEG Tensor Decomposition</strong></a>
+======
 
 Contact Information:
 ======
@@ -34,7 +35,7 @@ Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 Research Interests:
 ======
 - Signal Processing, Machine Learning<br>
-- <a style="color:#CC0000"><strong>Tensor Decomposition: </strong></a>constrained and regularized CANDECOMP/PAFARAC decomposition<br>
+- Tensor Decomposition: constrained and regularized CANDECOMP/PAFARAC decomposition<br>
 - Non-convex Optimization<br>
 - Electroencephalography(EEG) Data Analysis
 
