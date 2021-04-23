@@ -32,9 +32,10 @@ Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
 Research Interests:
 ======
 - Signal Processing, Machine Learning<br>
-- <a style="color:#CC0000"><strong>Tensor Decomposition</strong></a>: constrained and regularized CANDECOMP/PAFARAC decomposition<br>
+- Tensor Decomposition: constrained and regularized CANDECOMP/PAFARAC decomposition<br>
 - Non-convex Optimization<br>
 - Electroencephalography(EEG) Data Analysis
+- Special Topic: <a style="color:#CC0000" href="https://github.com/wangdeqing/Ongoing_EEG_Tensor_Decomposition" target="_blank"><strong>Ongoing EEG Tensor Decomposition</strong></a>
 
 Awards
 ======
