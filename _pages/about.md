@@ -22,7 +22,7 @@ I received my Ph.D. degree in December 2019 in <a href="https://www.jyu.fi/en" t
 
 Research groups:<br>
 <a href="https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing" target="_blank">Signal Processing and Wireless Communication (JYU)</a><br>
-<a href="http://www.escience.cn/people/cong/asap.html" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
+<a href="http://faculty.dlut.edu.cn/congfengyu/zh_CN/xsxx/672769/list/index.htm" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
 
 <a style="color:#CC0000" href="https://github.com/wangdeqing/Ongoing_EEG_Tensor_Decomposition" target="_blank"><strong>Special Topic: Ongoing EEG Tensor Decomposition</strong></a>
 ======
