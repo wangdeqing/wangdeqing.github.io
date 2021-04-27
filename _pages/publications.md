@@ -20,6 +20,11 @@ Journal and Conference Papers:
 <b>Deqing Wang</b>, Zengwu Liu, and Fengyu Cong. Wood Surface Quality Detection and Classification Using Gray Level and Texture Features, in Advances in Neural Networks – ISNN 2015, X. Hu, et al., Editors. 2015, Springer International Publishing. p. 248-257.<br />[<a href="https://doi.org/10.1007/978-3-319-25393-0_28" target="_blank">Paper Download</a>]<br>
 Xiufen Ye, <b>Deqing Wang</b>. Texture Image Segmentation Combining Chan-Vese Model and Structure Tensor. In 2012 Annual Conference of College of Automation, Harbin Engineering University. Harbin, China. 2012. [In Chinese]<br />[<a href="http://users.jyu.fi/~dewang/Documents/Ye_Wang_Image_Segmentation_2012.pdf" target="_blank">Paper Download</a>]<br>
 
+Other Papers:
+------
+<b>Deqing Wang</b>, Tianxing Niu and Jiasheng Qu. Research of Communication Between Visual C++ and Kingview Based on ActiveX Control, Techniques of Automation and Applications, 11, 2014. p. 1-8.<br />[<a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZDHJ201411031" target="_blank">Paper Download</a>]<br>
+Shicai Zhu, Lan Mu, Zhijun Liu and <b>Deqing Wang</b>. A survey of foreign warship magnetic field characteristic research and warship protection techniques, Ship Science and Technology, 09, 2014. p. 1-6. <br />[<a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2014&filename=JCKX201409002" target="_blank">Paper Download</a>]<br>
+
 Dissertations
 ------
 <b>Doctoral Dissertation:</b><br><b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
