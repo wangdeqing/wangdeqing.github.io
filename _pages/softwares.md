@@ -9,12 +9,9 @@ author_profile: true
 ======
 This is the demonstration of NCP tensor decomposition of ongoing EEG data that were collected by naturalistic music stimulus.
 
+
 <a href="https://github.com/wangdeqing/Inexact_Alternating_Proximal_Gradient" target="_blank"><strong>NCP using inexact alternating proximal gradient</strong></a>
 ======
 This is a new NCP algorithm using inexact alternating proximal gradient (iAPG) method.
-
-
-
-
 
 
