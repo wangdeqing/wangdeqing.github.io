@@ -48,4 +48,4 @@ Awards
 
 URLs of my website:
 ------
-[http://deqing.me](http://deqing.me)&nbsp;&nbsp;[http://deqing.site](http://deqing.site)
+[http://deqing.me](http://deqing.me)&nbsp;&nbsp;[http://deqing.site](http://deqing.site)&nbsp;&nbsp;[http://wangdeqing.net](http://wangdeqing.net)
