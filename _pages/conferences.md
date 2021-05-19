@@ -34,13 +34,17 @@ author_profile: true
 * The 28th Jyväskylä Summer School, 6 - 17, 2018. Jyväskylä, Finland.<br />
 * Ph.D. Seminars on Artificial Intelligence. Febrary 21 - May 14, 2018. Jyväskylä, Finland. [<a href="https://helituominen.wordpress.com/kurssit-it/tekoalyseminaari-kevat-2018/" target="_blank">Website</a>]<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oral Presentation 1: Tensor Decomposition for EEG data analysis.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oral Presentation 2: Increasing Stability of EEG Components Extraction Using Sparsity Regularized Tensor Decomposition.<br />
 
-2015 - 2017
+2017
 ------
 * International Summer School on Understanding Learning in the Brain, June 12 - 16, 2017. Jyväskylä, Finland. [<a href="https://cibr.jyu.fi/en/training/brain-summerschool2017/scientific_program" target="_blank">Website</a>]<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MEG/EEG analysis workshop. [<a href="http://www.fieldtriptoolbox.org/workshop/jyvaskyla2017" target="_blank">Website</a>]<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poster: <b>Deqing Wang</b>, et al. Exploiting Ongoing EEG with Multilinear Partial Least Squares During Free-listening to Music.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://users.jyu.fi/~dewang/Documents/Deqing_Wang_et_al_Poster_2017.pdf" target="_blank">Poster Download</a>]<br />
 * The 27th Jyväskylä Summer School, 7 - 18, 2017. Jyväskylä, Finland.<br />
 * Method Festival 2017, May 30 - 31, 2017. Jyväskylä, Finland. [<a href="https://www.jyu.fi/edupsy/fi/tutkimus/ihme/metodifestivaali-2017/en" target="_blank">Website</a>]<br />
+
+Before 2016
+------
 * The 4th Annual Research Seminar of CIBR, November 31, 2016. Jyväskylä, Finland. [<a href="https://cibr.jyu.fi/news/4thannualseminar" target="_blank">Website</a>]<br />
 * The 3rd Symposium on Brain Imaging and Electroencephalography, July 16 - 19, 2016. Dalian, China. [<a href="http://brain.lnnu.edu.cn/Notice/62.html" target="_blank">Website</a>]<br />
 * Summer School on Cognitive Neuroscience, August 17 - 21, 2015. Dalian, China. [<a href="http://brain.lnnu.edu.cn/Notice/38.html" target="_blank">Website</a>]<br />
 * Workshop of Cognitive Neuroscience, August 3, 2015. Dalian, China. [<a href="http://ee.dlut.edu.cn/info/1085/5536.htm" target="_blank">Website</a>]
+* DRAGON STAR PROGRAM: Deep Learning for Information Processing and Artificial Intelligence, July 2 - 6, 2013. Tianjin, China. [<a href="https://test2.ccf.org.cn/YOCSEF/Branches/Tianjin/News/qthd/2014-07-03/607247.shtml" target="_blank">Website 1</a>] [<a href="https://www.ccf.org.cn/DRAGON_STAR_PROGRAM/Schedule/2013/" target="_blank">Website 2</a>]
