@@ -7,6 +7,7 @@ author_profile: true
 
 2020
 ------
+* Workshop on Intelligent Navigation and Advanced Information Fusion Technology, December 12-13, 2020. [<a href="https://mp.weixin.qq.com/s/Nuor0XaETThgoqBh2HCtxA" target="_blank">Website</a>]<br />
 * The 30th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2020), Virtual Conference, September 21-24, 2020. [<a href="https://ieeemlsp.cc/" target="_blank">Website</a>]<br />
 * Workshop on Equivariance and Data Augmentation, Online, September 4, 2020. [<a href="https://sites.google.com/view/equiv-data-aug/home" target="_blank">Website</a>]<br />
 * The 24th European Conference on Artificial Intelligence (ECAI2020), Online, August 29 - September 8, 2020. [<a href="https://digital.ecai2020.eu/" target="_blank">Website</a>]<br />
