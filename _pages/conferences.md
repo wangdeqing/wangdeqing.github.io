@@ -14,7 +14,7 @@ author_profile: true
 
 2020
 ------
-* The 2nd Conference on Information Technology for Health and Rehabilitation and The 5th Forum on Brain-Computer Interface, (Online), Kunshan, China. December 19-20, 2020. [<a href="https://mp.weixin.qq.com/s/KBAvKEMNbJ2DS0gNAvI2lQ" target="_blank">Website</a>]<br />
+* The 2nd Conference on Information Technology for Health and Rehabilitation (The 5th Forum on Brain-Computer Interface), Online, Kunshan, China. December 19-20, 2020. [<a href="https://mp.weixin.qq.com/s/KBAvKEMNbJ2DS0gNAvI2lQ" target="_blank">Website</a>]<br />
 * Workshop on Intelligent Navigation and Advanced Information Fusion Technology, December 12-13, 2020. [<a href="https://mp.weixin.qq.com/s/Nuor0XaETThgoqBh2HCtxA" target="_blank">Website</a>]<br />
 * The 30th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2020), Virtual Conference, September 21-24, 2020. [<a href="https://ieeemlsp.cc/" target="_blank">Website</a>]<br />
 * Workshop on Equivariance and Data Augmentation, Online, September 4, 2020. [<a href="https://sites.google.com/view/equiv-data-aug/home" target="_blank">Website</a>]<br />
