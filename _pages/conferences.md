@@ -11,6 +11,7 @@ author_profile: true
 * MEG Nord 2021, May 24-25, 2021. (Online) Moscow, Russia. [<a href="https://megnord.org/2021/detailed-program-2021.html" target="_blank">Website</a>]<br />
 * Sino-Russian Symposium on the Intersection of Brain Science and Artificial Intelligence, May 25, 2021. (Online) [<a href="https://mp.weixin.qq.com/s/sErw88naNtNO31hlFYWS-A" target="_blank">Website</a>] [<a href="https://appc75jwmhz4298.h5.xiaoeknow.com/v2/course/alive/l_60ab610ee4b07e4d7fd8438c?app_id=appC75jwmhz4298&alive_mode=0&pro_id=&type=2&available=true&share_user_id=u_6076b72173430_YRpXu681wf&share_type=5&scene=%E5%88%86%E4%BA%AB&is_redirect=1" target="_blank">Video</a>]<br />
 * Second UM/RWTH-Chengdu/Dalian Virtual Workshop on Translational Neuroscience, May 7, 2021.
+* At the Interface of Brain and Machine, Online, April 20 - 21, 2021. [<a href="https://brainandmachineevent.natureresearch.cn/" target="_blank">Website</a>]
 
 2020
 ------
