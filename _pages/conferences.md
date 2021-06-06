@@ -7,7 +7,7 @@ author_profile: true
 
 2021
 ------
-* 2021 Conference of Beijing Academy of Artificial Intelligence, Online, Beijing, China. Jun 1 - 3, 2021. [<a href="https://2021.baai.ac.cn/" target="_blank">Video</a>]<br />
+* 2021 Conference of Beijing Academy of Artificial Intelligence, Online, Beijing, China. Jun 1 - 3, 2021. [<a href="https://2021.baai.ac.cn/" target="_blank">Website</a>]<br />
 * 2021 Pujiang Innovation Forum, Online, Shanghai, China. May 31 - Jun 03, 2021. [<a href="http://www.pujiangforum.cn/" target="_blank">Website</a>] [<a href="https://yicai.smgbb.cn/live/101063018.html" target="_blank">Video</a>]<br />
 * Young Researchers Event 2021: EBRAINS for next-generation brain medicine. May 26-27, 2021. [<a href="https://www.humanbrainproject.eu/en/education/YRE21/" target="_blank">Website</a>] [<a href="https://events.humanbrainproject.eu/yre2021/" target="_blank">Website</a>]<br />
 * MEG Nord 2021, May 24-25, 2021. (Online) Moscow, Russia. [<a href="https://megnord.org/2021/detailed-program-2021.html" target="_blank">Website</a>]<br />
