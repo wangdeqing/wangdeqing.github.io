@@ -9,8 +9,8 @@ author_profile: true
 ------
 * The CAAI International Conference on Artificial Intelligence (CICAI 2021), Online, Hangzhou, China. June 5-6, 2021. [<a href="https://cicai.caai.cn/#/" target="_blank">Website</a>]<br />
 * The global artificial intelligence technology conference (GAITC2021), Online, Hangzhou, China. Jun 5-6, 2021. [<a href="https://gaitc.caai.cn/" target="_blank">Website</a>]<br />
-* 2021 Conference of Beijing Academy of Artificial Intelligence, Online, Beijing, China. Jun 1-3, 2021. [<a href="https://2021.baai.ac.cn/" target="_blank">Website</a>]<br />
-* 2021 Pujiang Innovation Forum, Online, Shanghai, China. May 31 - Jun 03, 2021. [<a href="http://www.pujiangforum.cn/" target="_blank">Website</a>] [<a href="https://yicai.smgbb.cn/live/101063018.html" target="_blank">Video</a>]<br />
+* Beijing Academy of Artificial Intelligence Conference, Online, Beijing, China. Jun 1-3, 2021. [<a href="https://2021.baai.ac.cn/" target="_blank">Website</a>]<br />
+* Pujiang Innovation Forum, Online, Shanghai, China. May 31 - Jun 03, 2021. [<a href="http://www.pujiangforum.cn/" target="_blank">Website</a>] [<a href="https://yicai.smgbb.cn/live/101063018.html" target="_blank">Video</a>]<br />
 * Young Researchers Event 2021: EBRAINS for next-generation brain medicine. May 26-27, 2021. [<a href="https://www.humanbrainproject.eu/en/education/YRE21/" target="_blank">Website</a>] [<a href="https://events.humanbrainproject.eu/yre2021/" target="_blank">Website</a>]<br />
 * MEG Nord 2021, May 24-25, 2021. (Online) Moscow, Russia. [<a href="https://megnord.org/2021/detailed-program-2021.html" target="_blank">Website</a>]<br />
 * Sino-Russian Symposium on the Intersection of Brain Science and Artificial Intelligence, May 25, 2021. (Online) [<a href="https://mp.weixin.qq.com/s/sErw88naNtNO31hlFYWS-A" target="_blank">Website</a>] [<a href="https://appc75jwmhz4298.h5.xiaoeknow.com/v2/course/alive/l_60ab610ee4b07e4d7fd8438c?app_id=appC75jwmhz4298&alive_mode=0&pro_id=&type=2&available=true&share_user_id=u_6076b72173430_YRpXu681wf&share_type=5&scene=%E5%88%86%E4%BA%AB&is_redirect=1" target="_blank">Video</a>]<br />
