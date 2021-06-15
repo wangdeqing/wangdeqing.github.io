@@ -7,6 +7,7 @@ author_profile: true
 
 2021
 ------
+* The 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2021, Virtual Conference), Toronto, Ontario, Canada, June 6-11, 2021. [<a href="https://2021.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * The CAAI International Conference on Artificial Intelligence (CICAI 2021), Online, Hangzhou, China. June 5-6, 2021. [<a href="https://cicai.caai.cn/#/" target="_blank">Website</a>]<br />
 * The global artificial intelligence technology conference (GAITC2021), Online, Hangzhou, China. Jun 5-6, 2021. [<a href="https://gaitc.caai.cn/" target="_blank">Website</a>]<br />
 * Beijing Academy of Artificial Intelligence Conference, Online, Beijing, China. Jun 1-3, 2021. [<a href="https://2021.baai.ac.cn/" target="_blank">Website</a>]<br />
