@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Deqing Wang's Website"
 title_separator          : "-"
 name                     : &name "Deqing Wang"
-description              : &description "Doctoral student in signal processing"
+description              : &description "Assistant professor in signal processing"
 url                      : "https://deqing.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangdeqing/wangdeqing.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deqing Wang(王德庆)"
+  name             : "Deqing Wang (王德庆)"
   avatar           : "profile.jpg"
-  bio              : "Doctoral Student"
-  location         : "Jyväskylä, Finland"
+  bio              : "Assitant Professor"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gAIOHx8AAAAJ&hl=en"
