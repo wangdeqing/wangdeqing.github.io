@@ -29,7 +29,7 @@ Research groups:<br>
 Contact Information:
 ======
 Email: <a href="mailto:deqing.wang@foxmail.com" target="_blank"><img src="/images/email.png" height="12"/></a><br>
-Address: Chuangxin Road No.135, Hunnan District, Shenyang, China.
+Address: Chuangxin Road No.135, Hunnan District, Shenyang City, Liaoning Province, China.
 
 Research Interests:
 ======
