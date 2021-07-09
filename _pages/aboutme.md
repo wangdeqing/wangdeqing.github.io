@@ -4,21 +4,25 @@ title: "About me"
 permalink: /aboutme/
 author_profile: true
 ---
-
-Research Experiences:
+Working Experiences:
 ======
-- **09/2015 – Present:**<br>
-Doctoral Student, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
-Major: Biomedical Engineering<br>
-Research Topic: Joint Analysis of Naturalistic Music and Multiway Ongoing EEG<br>
-- **10/2016 – 12/2019:**<br>
-Ph.D., Faculty of Information Technology, University of Jyväskylä, Finland.<br>
-Major: Mathematical Information Technology<br>
-Research Topic: Extracting meaningful EEG Features using constrained tensor decomposition [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>]<br>
+- **06/2021 – Present:**<br>
+Assistant Professor, Shenyang Institute of Automation, Chinese Academy of Sciences.<br>
 - 12/2014 – 07/2015:<br>
 Engineer, Dalian Scientific Test & Control Technology Institute, China Shipbuilding Industry Corporation.<br>
 - 04/2012 – 11/2014:<br>
 Assistant Engineer, Dalian Scientific Test & Control Technology Institute, China Shipbuilding Industry Corporation.<br>
+
+Education Background:
+======
+- **10/2016 – 12/2019:**<br>
+Ph.D., Faculty of Information Technology, University of Jyväskylä, Finland.<br>
+Major: Mathematical Information Technology<br>
+Research Topic: Extracting meaningful EEG Features using constrained tensor decomposition [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>]<br>
+- 09/2015 – 06/2021:<br>
+Licentiate Certificate, Faculty of Electronic Information and Electrical Engineering, Dalian University of Technology, China.<br>
+Major: Biomedical Engineering<br>
+Research Topic: Joint Analysis of Naturalistic Music and Multiway Ongoing EEG<br>
 - 09/2009 – 03/2012:<br>
 M.E., College of Automation, Harbin Engineering University, China.<br>
 Major: Pattern Recognition and Intelligence System<br>
