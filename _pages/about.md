@@ -29,7 +29,7 @@ Research groups:<br>
 Contact Information:
 ======
 Email: <a href="mailto:deqing.wang@foxmail.com" target="_blank"><img src="/images/email.png" height="12"/></a><br>
-Address: Mattilanniemi 2, Building Agora, Jyväskylä, Finland
+Address: Chuangxin Road No.135, Hunnan District, Shenyang, China.
 
 Research Interests:
 ======
