@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[http://deqing.pub/](http://deqing.pub/)  
 Journal and Conference Papers:
 ------
 - <b>Deqing Wang</b>, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 5.606</b>)<br />[In press]&nbsp;[<a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank">Code</a>]<br>
@@ -27,3 +26,8 @@ Dissertations
 
 <b>Master Dissertation:</b><br><b>Deqing Wang</b>, Image Segmentation Based on Partial Difference Equations, Harbin Engineering University, Harbin, China. March 2012.<br>
 [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Dissertation in Chinese</a>]<br>
+
+Direct Link
+------
+<a href="http://deqing.pub/">http://deqing.pub/</a>
+
