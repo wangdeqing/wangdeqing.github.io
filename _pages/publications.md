@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<a href="http://deqing.pub/">http://deqing.pub/</a>  
-**Journal and Conference Papers:**
+[http://deqing.pub/](http://deqing.pub/)
+Journal and Conference Papers:
+------
 - <b>Deqing Wang</b>, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 5.606</b>)<br />[In press]&nbsp;[<a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank">Code</a>]<br>
 - Guoqiang Hu, <b>Deqing Wang</b>, Siwen Luo, et al. Frequency specific co-activation pattern analysis via sparse nonnegative tensor decomposition. Journal of Neuroscience Methods. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 2.39</b>) <br />[<a href="https://doi.org/10.1016/j.jneumeth.2021.109299" target="_blank">Paper Download</a>]<br>
 - <b>Deqing Wang</b> and Fengyu Cong. An inexact alternating proximal gradient algorithm for nonnegative CP tensor decomposition, Science China Technological Sciences. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 3.572</b>)<br />[<a href="https://doi.org/10.1007/s11431-020-1840-4" target="_blank">Paper Download Link 1</a>]&nbsp;[<a href="http://engine.scichina.com/doi/10.1007/s11431-020-1840-4" target="_blank">Paper Download Link 2</a>]&nbsp;[<a href="https://github.com/wangdeqing/Inexact_Alternating_Proximal_Gradient" target="_blank">Code</a>]<br>
@@ -19,7 +20,8 @@ author_profile: true
 - <b>Deqing Wang</b>, Tianxing Niu and Jiasheng Qu. Research of Communication Between Visual C++ and Kingview Based on ActiveX Control, Techniques of Automation and Applications, 11, 2014. p. 1-8.<br />[<a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZDHJ201411031" target="_blank">Paper Download</a>]<br>
 - Shicai Zhu, Lan Mu, Zhijun Liu and <b>Deqing Wang</b>. A survey of foreign warship magnetic field characteristic research and warship protection techniques, Ship Science and Technology, 09, 2014. p. 1-6. <br />[<a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2014&filename=JCKX201409002" target="_blank">Paper Download</a>]<br>
 
-**Dissertations**
+Dissertations
+------
 <b>Doctoral Dissertation:</b><br><b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
 [<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank">Dissertation Download</a>] [<a href="https://www.jyu.fi/en/current/archive/2019/11/12-12-2019-msc-deqing-wang-faculty-of-information-technology-mathematical-information-technology" target="_blank">Press Release in English</a>] [<a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/11/12-12-2019-msc-deqing-wang-informaatioteknologian-tiedekunta-tietotekniikka" target="_blank">Press Release in Finnish</a>]<br>
 
