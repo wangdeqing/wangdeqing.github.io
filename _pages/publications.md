@@ -29,5 +29,5 @@ Dissertations
 
 Direct Link
 ------
-<a href="http://deqing.pub/">http://deqing.pub/</a>
+You can view my publications directly by the link <a href="http://deqing.pub/">http://deqing.pub/</a>.
 
