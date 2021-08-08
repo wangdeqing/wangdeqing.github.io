@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Journal and Conference Papers:
-------
+======
 - <b>Deqing Wang</b>, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 5.606</b>)<br />[In press]&nbsp;[<a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank">Code</a>]<br>
 - Guoqiang Hu, <b>Deqing Wang</b>, Siwen Luo, et al. Frequency specific co-activation pattern analysis via sparse nonnegative tensor decomposition. Journal of Neuroscience Methods. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 2.39</b>) <br />[<a href="https://doi.org/10.1016/j.jneumeth.2021.109299" target="_blank">Paper Download</a>]<br>
 - <b>Deqing Wang</b> and Fengyu Cong. An inexact alternating proximal gradient algorithm for nonnegative CP tensor decomposition, Science China Technological Sciences. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 3.572</b>)<br />[<a href="https://doi.org/10.1007/s11431-020-1840-4" target="_blank">Paper Download Link 1</a>]&nbsp;[<a href="http://engine.scichina.com/doi/10.1007/s11431-020-1840-4" target="_blank">Paper Download Link 2</a>]&nbsp;[<a href="https://github.com/wangdeqing/Inexact_Alternating_Proximal_Gradient" target="_blank">Code</a>]<br>
