@@ -6,9 +6,7 @@ author_profile: true
 ---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}  
-<a href="http://deqing.pub/">http://deqing.pub/</a>  
-
+{% endif %} <a href="http://deqing.pub/">http://deqing.pub/</a><br>
 Journal and Conference Papers:
 ------
 - <b>Deqing Wang</b>, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. 2021. <b>Accepted</b>. (<b>SCI, Impact Factor: 5.606</b>)<br />[In press]&nbsp;[<a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank">Code</a>]<br>
