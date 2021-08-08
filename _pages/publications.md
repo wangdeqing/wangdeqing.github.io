@@ -8,8 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-http://deqing.pub/
+<a href="http://deqing.pub/">http://deqing.pub/</a>
 
 Journal and Conference Papers:
 ------
