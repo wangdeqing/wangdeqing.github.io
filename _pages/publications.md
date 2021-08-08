@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications <a style="font-size:16px" href="http://deqing.pub/">http://deqing.pub/</a>"
 permalink: /publications/
 author_profile: true
 ---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} <a style="font-size:18px" href="http://deqing.pub/">http://deqing.pub/</a>
+{% endif %}
 
 Journal and Conference Papers:
 ------
