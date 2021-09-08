@@ -16,3 +16,8 @@ author_profile: true
 - This is a new NCP algorithm using inexact alternating proximal gradient (iAPG) method.
 - Upload Date: April 22nd, 2021
 
+<a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank"><strong>Nonnegative Tensor Decomposition</strong></a>
+======
+- Nonnegative CP Tensor Decomposition (NCP) algorithms with sparse regularization.
+- Upload Date: July 22nd, 2021
+
