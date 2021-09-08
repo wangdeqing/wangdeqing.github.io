@@ -18,6 +18,6 @@ author_profile: true
 
 <a href="https://github.com/wangdeqing/Nonnegative_Tensor_Decomposition" target="_blank"><strong>Nonnegative Tensor Decomposition</strong></a>
 ======
-- Nonnegative CP Tensor Decomposition (NCP) algorithms with sparse regularization: PROX-ANQP, PROX-iHALS, AO-ADMM, iAPG and iMU.
+- Nonnegative CP Tensor Decomposition (NCP) algorithms with sparse regularization: `PROX-ANQP`, `PROX-iHALS`, `AO-ADMM`, `iAPG` and `iMU`.
 - Upload Date: July 22nd, 2021
 
