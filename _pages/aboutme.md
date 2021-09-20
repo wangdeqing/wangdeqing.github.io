@@ -52,7 +52,10 @@ Online Magazines
 - <a href="https://read.nxtbook.com/ieee/signal_processing/" target="_blank">IEEE Signal Processing Magazine</a>
 - <a href="https://www.nxtbook.com/nxtbooks/ieee/computationalintelligence_202108/index.php" target="_blank">IEEE Computational Intelligence Magazine</a>
 - <a href="https://www.nxtbook.com/nxtbooks/ieee/roboticsautomation_september2021/" target="_blank">IEEE Robotics & Automation Magazine</a>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/smc_202104/" target="_blank">IEEE Systems, Man and Cybernetics Magazine</a>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/technologysociety_september2021/" target="_blank">IEEE Technology and Society Magazine</a>
 - <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a>
 - <a href="https://sinews.siam.org/" target="_blank">SIAM News</a>
 - <a href="http://www.cas.cn/zkyzs/" target="_blank">The Voice of Chinese Academy of Sciences</a>
+- <a href="https://www.caai.cn/index.php?s=/home/article/index/id/51.html" target="_blank">Communications of Chinese Association for Artificial Intelligence</a>
 
