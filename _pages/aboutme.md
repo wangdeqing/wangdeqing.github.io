@@ -57,5 +57,5 @@ Online Magazines
 - <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a>
 - <a href="https://sinews.siam.org/" target="_blank">SIAM News</a>
 - <a href="http://www.cas.cn/zkyzs/" target="_blank">The Voice of Chinese Academy of Sciences</a>
+- <a href="http://www.caa.org.cn/Lists/56.html" target="_blank">Communications of Chinese Association of Automation</a>
 - <a href="https://www.caai.cn/index.php?s=/home/article/index/id/51.html" target="_blank">Communications of Chinese Association for Artificial Intelligence</a>
-
