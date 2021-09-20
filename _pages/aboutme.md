@@ -37,7 +37,7 @@ Early Researches:
 - Image Segmentation Based on Partial Differential Equations (Year: 2011): [<a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank">Link</a>]
 
 Acedemic Photos
-======
+------
 -  <a href="https://as.alltuu.com/album/1025255123/" target="_blank">BOUNDLESS - 2020 Zhejiang Lab International Young Talents Forum</a>. <a href="https://si4.alltuu.com/4a2e01157010bc82a14ba8dd92be6a59/17951c1be3e/ACT233070/99150843.jpg/bl?v=1608048021000&response-content-disposition=attachment;filename=99150843.jpg" target="_blank">Photo 1</a>, <a href="https://si4.alltuu.com/10dcf52c6a13c4fd3540b7782b741981/179536be369/ACT233070/98994996.jpg/bl?v=1605715277000&response-content-disposition=attachment;filename=98994996.jpg" target="_blank">Photo 2</a>, <a href="https://si4.alltuu.com/6bb3653486e7760c0542322ff730d260/179536b0bd7/ACT233070/99013287.jpg/bl?v=1610726692000&response-content-disposition=attachment;filename=99013287.jpg" target="_blank">Photo 3</a>
 - <a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa" target="_blank">The University of Jyväskylä as a pioneer in academic language teaching</a>. <a href="https://www.jyu.fi/fi/ajankohtaista/arkisto/2019/05/jyvaskylan-yliopisto-edellakavijana-akateemisessa-kielten-opetuksessa/@@images/12fd95f0-2310-7e4f-95c4-767e73948ffb.jpeg" target="_blank">Photo</a>
 - <a href="https://cibr.jyu.fi/en/cibr-collegium" target="_blank">Jyväskylä Centre for Interdisciplinary Brain Research (CIBR): CIBR Brain Breakfast</a>. <a href="https://cibr.jyu.fi/en/cibr-collegium/cibr-collegium-and-advisory-board/@@images/25044fc9-9c83-0069-82c9-36bee86b5b6a.jpeg" target="_blank">Photo</a>
@@ -46,3 +46,12 @@ Acedemic Photos
 - <a href="https://www.ksml.fi/teemat/2374292" target="_blank">2019 Finlandia Marathon: 125 IT marathoners participated in the running event</a>. <a href="https://i.media.fi/incoming/g7jlc1-5632366.jpg/alternates/FREE_1440/5632366.jpg" target="_blank">Photo</a>
 - <a href="/images/photos/42208430_10156761879843872_3020950794800201728_n.jpg" target="_blank">2018 Finlandia Marathon: IT marathoners</a>
 - <a href="/images/photos/21686742_10155778590828872_6127841345734637126_o.jpg" target="_blank">2017 Finlandia Marathon: IT marathoners</a>
+
+Online Magazines
+------
+- <a href="https://read.nxtbook.com/ieee/signal_processing/" target="_blank">IEEE Signal Processing Magazine</a></br>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/computationalintelligence_202108/index.php" target="_blank">IEEE Computational Intelligence Magazine</a></br>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/roboticsautomation_december2020/index.php" target="_blank">IEEE Signal Processing Magazine</a></br>
+- <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a></br>
+- <a href="https://sinews.siam.org/" target="_blank">SIAM News</a></br>
+
