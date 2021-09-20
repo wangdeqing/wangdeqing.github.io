@@ -49,9 +49,9 @@ Acedemic Photos
 
 Online Magazines
 ------
-- <a href="https://read.nxtbook.com/ieee/signal_processing/" target="_blank">IEEE Signal Processing Magazine</a></br>
-- <a href="https://www.nxtbook.com/nxtbooks/ieee/computationalintelligence_202108/index.php" target="_blank">IEEE Computational Intelligence Magazine</a></br>
-- <a href="https://www.nxtbook.com/nxtbooks/ieee/roboticsautomation_december2020/index.php" target="_blank">IEEE Signal Processing Magazine</a></br>
-- <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a></br>
-- <a href="https://sinews.siam.org/" target="_blank">SIAM News</a></br>
+- <a href="https://read.nxtbook.com/ieee/signal_processing/" target="_blank">IEEE Signal Processing Magazine</a>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/computationalintelligence_202108/index.php" target="_blank">IEEE Computational Intelligence Magazine</a>
+- <a href="https://www.nxtbook.com/nxtbooks/ieee/roboticsautomation_december2020/index.php" target="_blank">IEEE Signal Processing Magazine</a>
+- <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a>
+- <a href="https://sinews.siam.org/" target="_blank">SIAM News</a>
 
