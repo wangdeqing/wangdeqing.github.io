@@ -54,4 +54,5 @@ Online Magazines
 - <a href="https://www.nxtbook.com/nxtbooks/ieee/roboticsautomation_december2020/index.php" target="_blank">IEEE Signal Processing Magazine</a>
 - <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a>
 - <a href="https://sinews.siam.org/" target="_blank">SIAM News</a>
+- <a href="http://www.cas.cn/zkyzs/" target="_blank">The Voice of Chinese Academy of Sciences</a>
 
