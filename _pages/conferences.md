@@ -7,7 +7,7 @@ author_profile: true
 
 2021
 ------
-* The 2nd Postdoctoral Forum for Advanced Interdisciplinary Studies. Beijing, China. September 26, 2021. [<a href="https://mp.weixin.qq.com/s/zscGiJWVDMZMF5uhA44UfA" target="_blank">Website</a>]<br />
+* The 2nd Postdoctoral Forum for Advanced Interdisciplinary Studies. Beijing, China. September 26, 2021. [<a href="http://www.aais.pku.edu.cn/news/shownews.php?lang=cn&id=1345" target="_blank">Website</a>]<br />
 * The 13th International Conference on Numerical Optimization and Numerical Linear Algebra (Online). Chengdu, Sichuan, China. September 14-17, 2021. [<a href="http://lsec.cc.ac.cn/~icnonla21/" target="_blank">Website</a>]<br />
 * The 2021 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2021, Virtual Conference), Toronto, Ontario, Canada, June 6-11, 2021. [<a href="https://2021.ieeeicassp.org/" target="_blank">Website</a>]<br />
 * The CAAI International Conference on Artificial Intelligence (CICAI 2021), Online, Hangzhou, China. June 5-6, 2021. [<a href="https://cicai.caai.cn/#/" target="_blank">Website</a>]<br />
