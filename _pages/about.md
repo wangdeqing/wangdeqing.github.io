@@ -41,7 +41,7 @@ Research Interests:
 
 Awards
 ======
-- Youth Talent (Level D) of Shenyang City, Shenyang, China. December, 2021.
+- Youth Talent of Shenyang City (Level D), Shenyang, China. December, 2021.
 - Award of Ph.D. Staff Recruiting Program of Shenyang City, Shenyang, China. October, 2021.
 - IEEE Signal Processing Society Professtional Development Grant, June, 2021.
 - Best Student Paper Award, 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK. May, 2019. [<a href="https://www.2019.ieeeicassp.org/2019.ieeeicassp.org/program.html#awards" target="_blank">Link</a>]
