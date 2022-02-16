@@ -41,11 +41,15 @@ Research Interests:
 
 Awards
 ======
+- 
 - Best Student Paper Award, 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK. May, 2019. [<a href="https://www.2019.ieeeicassp.org/2019.ieeeicassp.org/program.html#awards" target="_blank">Link</a>]
+- Yongth Talent (Level D) of Shenyang City, Shenyang, China. December, 2021.
+- Award of Ph.D. Staff Recruiting Program of Shenyang City, Shenyang, China. October, 2021.
+- IEEE Signal Processing Society Professtional Development Grant, June, 2021.
 - Best Paper Award, The 2nd Academic Forum for Chinese and Foreign Ph.D. Students, Dalian University of Technology, Dalian, China. June, 2016. [<a href="http://sie.dlut.edu.cn/info/10001/87240.htm" target="_blank">Link</a>]
 - Best Paper Award, 2012 Annual Academic Conference of the Faculty of Automation, Harbin Engineering University, Harbin, China, July, 2012.
 - Third-level Award. The Fifth "SIEMENS Cup" National Competition of Control and Simulation for University Students, Shanghai, China, August, 2010. [<a href="http://w2.siemens.com.cn/sce/promotions/2010compete/haerbin-02.asp" target="_blank">Link</a>]
-- IEEE Signal Processing Society Professtional Development Grant, June, 2021.
+
 
 URLs of my website:
 ------
