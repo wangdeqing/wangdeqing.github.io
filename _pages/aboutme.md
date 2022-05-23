@@ -62,3 +62,4 @@ Online Magazines
 - <a href="http://www.caa.org.cn/Lists/56.html" target="_blank">Communications of Chinese Association of Automation</a>
 - <a href="https://www.caai.cn/index.php?s=/home/article/index/id/51.html" target="_blank">Communications of Chinese Association for Artificial Intelligence</a>
 - <a href="https://dl.ccf.org.cn/article/articleIndex.html" target="_blank">Communications of China Computer Federation</a>
+- <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" target="_blank">Forum of Mathematics, Sigma</a>
