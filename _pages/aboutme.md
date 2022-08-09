@@ -62,6 +62,7 @@ Online Magazines
 - <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" target="_blank">Forum of Mathematics, Sigma</a>
 - <a href="http://www.bulletin.cas.cn/zgkxyyk/ch/reader/issue_browser.aspx" target="_blank">Bulletin of Chinese Academy of Sciences</a>
 - <a href="http://www.cas.cn/zkyzs/" target="_blank">The Voice of Chinese Academy of Sciences</a>
+- <a href="https://www.engineering.org.cn/ch/journal/eng" target="_blank">Engineering</a>
 - <a href="http://www.caa.org.cn/Lists/56.html" target="_blank">Communications of Chinese Association of Automation</a>
 - <a href="https://www.caai.cn/index.php?s=/home/article/index/id/51.html" target="_blank">Communications of Chinese Association for Artificial Intelligence</a>
 - <a href="https://dl.ccf.org.cn/article/articleIndex.html" target="_blank">Communications of China Computer Federation</a>
