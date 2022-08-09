@@ -56,6 +56,7 @@ Online Magazines
 - <a href="https://www.nxtbook.com/nxtbooks/ieee/smc_202104/" target="_blank">IEEE Systems, Man and Cybernetics Magazine</a>
 - <a href="https://www.nxtbook.com/nxtbooks/ieee/technologysociety_september2021/" target="_blank">IEEE Technology and Society Magazine</a>
 - <a href="https://read.nxtbook.com/ieee/spectrum_int/" target="_blank">IEEE Spectrum</a>
+- <a href="https://www.nature.com/natmachintell/" target="_blank">Nature machine intelligence</a>
 - <a href="https://sinews.siam.org/" target="_blank">SIAM News</a>
 - <a href="https://www.siam.org/publications/journals/siam-review-sirev" target="_blank">SIAM Review</a>
 - <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" target="_blank">Forum of Mathematics, Sigma</a>
