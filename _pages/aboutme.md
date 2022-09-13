@@ -7,7 +7,7 @@ author_profile: true
 Working Experiences:
 ------
 - **06/2021 – Present:**<br>
-Assistant Professor, Shenyang Institute of Automation, Chinese Academy of Sciences.<br>
+Assistant Professor, State Key Laboratory of Robotics, Chinese Academy of Sciences.<br>
 - 12/2014 – 07/2015:<br>
 Engineer, Dalian Scientific Test & Control Technology Institute, China Shipbuilding Industry Corporation.<br>
 - 04/2012 – 11/2014:<br>
