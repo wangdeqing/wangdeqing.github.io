@@ -53,4 +53,4 @@ Awards
 
 URLs of my website:
 ------
-[http://deqing.net](http://deqing.net)&nbsp;&nbsp;[http://wangdeqing.net](http://wangdeqing.net)
+[https://deqing.net](https://deqing.net)&nbsp;&nbsp;[https://wangdeqing.net](https://wangdeqing.net)
