@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can view my publications directly by the link <a href="http://deqing.pub/">http://deqing.pub/</a>.
 
 Journal and Conference Papers:
 ------
