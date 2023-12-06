@@ -5,6 +5,16 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+2023
+------
+* China National Computer Congress 2023 (CNCC2023), Shenyang, China, October 26-28, 2023. [<a href="https://ccf.org.cn/cncc2023" target="_blank">Website</a>]<br />
+* The 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2023, Virtual Conference), Rhodes Island, Greece, June 4-10, 2023. [<a href="https://2023.ieeeicassp.org/" target="_blank">Website</a>]<br />
+
+2022
+------
+* China National Computer Congress 2022 (CNCC2022, Virtual Conference), Guiyang, China, December 8-10, 2022. [<a href="https://ccf.org.cn/cncc2022" target="_blank">Website</a>]<br />
+* The 2022 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2022, Virtual Conference), Singapore, May 22-27, 2022. [<a href="https://2022.ieeeicassp.org/" target="_blank">Website</a>]<br />
+
 2021
 ------
 * The 2nd Postdoctoral Forum for Advanced Interdisciplinary Studies. Beijing, China. September 26, 2021. [<a href="http://www.aais.pku.edu.cn/news/shownews.php?lang=cn&id=1345" target="_blank">Website</a>]<br />
