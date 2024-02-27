@@ -23,7 +23,7 @@ redirect_from:
 I am an assistant professor in the State Key Laboratory of Robotics, Chinese Academy of Sciences. I received my Ph.D. degree in December 2019 in <a href="https://www.jyu.fi/en" target="_blank">University of Jyväskylä</a>, Finland. The information of my dissertation defense can be found in the press release in <a href="https://www.jyu.fi/en/news/analysing-multiway-brain-signals-wang" target="_blank">English</a> and <a href="https://www.jyu.fi/fi/news/algoritmeista-apua-myos-aivojen-tutkimukseen-wang" target="_blank">Finnish</a>. I received the licentiate certificate in 2021 in <a href="https://www.dlut.edu.cn" target="_blank">Dalian University of Technology</a>, China.<br>
 
 Former research groups:<br>
-<a href="https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing" target="_blank">Secure Communications Engineering and Signal Processing (JYU)</a><br>
+<a href="https://www.jyu.fi/en/research-groups/secure-communications-engineering-and-signal-processing-scsp" target="_blank">Secure Communications Engineering and Signal Processing (JYU)</a><br>
 <a href="http://faculty.dlut.edu.cn/congfengyu/zh_CN/xsxx/672769/list/index.htm" target="_blank">Lab of Advanced Signal Analysis and Processing (DLUT)</a>
 
 <a style="color:#CC0000" href="https://github.com/wangdeqing/Ongoing_EEG_Tensor_Decomposition" target="_blank"><strong>Special Topic: Ongoing EEG Tensor Decomposition</strong></a>
