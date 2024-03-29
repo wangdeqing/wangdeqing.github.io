@@ -25,7 +25,7 @@ Journal and Conference Papers:
 Dissertations
 ------
 <b>Doctoral Dissertation:</b><br><b>Deqing Wang</b>, Extracting Meaningful EEG Features Using Constrained Tensor Decomposition, University of Jyväskylä, Finland. December 2019.<br>
-<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank"><i class="fas fa-fw fa-file-pdf zoom"></i>Dissertation Download</a>&nbsp;<a href="https://www.jyu.fi/en/news/analysing-multiway-brain-signals-wang" target="_blank"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Press Release in English</a>&nbsp;<a href="https://www.jyu.fi/fi/news/algoritmeista-apua-myos-aivojen-tutkimukseen-wang" target="_blank"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Press Release in Finnish</a><br>
+<a href="http://urn.fi/URN:ISBN:978-951-39-7968-3" target="_blank"><i class="fas fa-fw fa-file-pdf zoom"></i>Dissertation Download</a>&nbsp;<a href="https://www.jyu.fi/en/news/analysing-multiway-brain-signals-wang" target="_blank"><i class="fas fa-fw fa-external-link-square zoom"></i>Press Release in English</a>&nbsp;<a href="https://www.jyu.fi/fi/news/algoritmeista-apua-myos-aivojen-tutkimukseen-wang" target="_blank"><i class="fas fa-fw fa-external-link-square zoom"></i>Press Release in Finnish</a><br>
 
 <b>Master Dissertation:</b><br><b>Deqing Wang</b>, Image Segmentation Based on Partial Difference Equations, Harbin Engineering University, Harbin, China. March 2012.<br>
 <a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201301&filename=1012518274.nh" target="_blank"><i class="fas fa-fw fa-file-pdf zoom"></i>Dissertation in Chinese</a><br>
