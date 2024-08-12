@@ -5,6 +5,12 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+2024
+------
+* Workshop on Tensor Models for Machine Learning: Empowering Efficiency, lnterpretability, and Reliability @ IEEE CAI 2024, Singapore, June 25-26, 2024. [<a href="https://tensorworkshop.github.io/TMME-CAI2024/" target="_blank">Website</a>]<br />
+* The 18th International Symposium on Neural Networks (ISNN 2024), Weihai, Shandong, China, July 11-14, 2024. [<a href="https://conference.cs.cityu.edu.hk/isnn/" target="_blank">Website</a>]<br />
+* International Conference on Mathematical Theory of Deep Learning, Beijing, China, August 5-9, 2024. [<a href="https://dl2024.casconf.cn/" target="_blank">Website</a>]<br />
+
 2023
 ------
 * China National Computer Congress 2023 (CNCC2023), Shenyang, China, October 26-28, 2023. [<a href="https://ccf.org.cn/cncc2023" target="_blank">Website</a>]<br />
