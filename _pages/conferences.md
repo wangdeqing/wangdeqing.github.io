@@ -7,6 +7,7 @@ author_profile: true
 
 2024
 ------
+* Advanced Cources on Image Processing: Methods and Applications, Changchun, Jilin, China, September 23-28, 2024. [<a href="http://www.ciomp.ac.cn/xwdt/zhxw/202409/t20240930_7392743.html" target="_blank">Website</a>]<br />
 * Workshop on Tensor Models for Machine Learning: Empowering Efficiency, lnterpretability, and Reliability @ IEEE CAI 2024, Singapore, June 25-26, 2024. [<a href="https://tensorworkshop.github.io/TMME-CAI2024/" target="_blank">Website</a>]<br />
 * The 18th International Symposium on Neural Networks (ISNN 2024), Weihai, Shandong, China, July 11-14, 2024. [<a href="https://conference.cs.cityu.edu.hk/isnn/" target="_blank">Website</a>]<br />
 * International Conference on Mathematical Theory of Deep Learning, Beijing, China, August 5-9, 2024. [<a href="https://dl2024.casconf.cn/" target="_blank">Website</a>]<br />
